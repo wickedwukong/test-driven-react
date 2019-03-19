@@ -1,3 +1,3 @@
-module.exports = (words) => {
-    return ["madam"];
-}
+module.exports = (str) => { 
+    return [str];
+};
