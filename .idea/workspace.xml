@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b09c301-0ccd-42c0-8f67-ae673a397677" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch3-test-driven-carousel/test/hello.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/test-driven-react.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test-driven-react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3-test-driven-carousel/test/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch3-test-driven-carousel/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/ch3-test-driven-carousel/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch3-test-driven-carousel/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ch3-test-driven-carousel/package-lock.json" afterDir="false" />
@@ -31,26 +29,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch3-test-driven-carousel/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="680">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch3-test-driven-carousel/test/hello.test.js">
+        <entry file="file://$PROJECT_DIR$/ch3-test-driven-carousel/test/.eslintrc.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="120">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch3-test-driven-carousel/test/hello.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch3-test-driven-carousel/.eslintrc.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -69,6 +76,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -107,7 +123,9 @@
         <option value="$PROJECT_DIR$/ch3-test-driven-carousel/.babelrc.js" />
         <option value="$PROJECT_DIR$/ch3-test-driven-carousel/hello-babel.js" />
         <option value="$PROJECT_DIR$/ch3-test-driven-carousel/test/hello.test.js" />
+        <option value="$PROJECT_DIR$/ch3-test-driven-carousel/test/.eslintrc.js" />
         <option value="$PROJECT_DIR$/ch3-test-driven-carousel/.eslintrc.js" />
+        <option value="$PROJECT_DIR$/.eslintrc.js" />
       </list>
     </option>
   </component>
@@ -132,18 +150,23 @@
             <path>
               <item name="test-driven-react" type="b2602c69:ProjectViewProjectNode" />
               <item name="test-driven-react" type="462c0819:PsiDirectoryNode" />
-              <item name="ch2-palindromes" type="462c0819:PsiDirectoryNode" />
+              <item name="ch1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test-driven-react" type="b2602c69:ProjectViewProjectNode" />
               <item name="test-driven-react" type="462c0819:PsiDirectoryNode" />
               <item name="ch2-palindromes" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test-driven-react" type="b2602c69:ProjectViewProjectNode" />
               <item name="test-driven-react" type="462c0819:PsiDirectoryNode" />
               <item name="ch3-test-driven-carousel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-driven-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-driven-react" type="462c0819:PsiDirectoryNode" />
+              <item name="ch3-test-driven-carousel" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,6 +192,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ch3-test-driven-carousel/test" />
       <recent name="$PROJECT_DIR$/ch3-test-driven-carousel" />
     </key>
   </component>
@@ -226,14 +251,11 @@
       <option name="presentableId" value="Default" />
       <updated>1553033013672</updated>
       <workItem from="1553033014870" duration="124000" />
-      <workItem from="1553033156927" duration="2259000" />
+      <workItem from="1553033156927" duration="3215000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="palindromes() - 2019.03.19 at 22h 03m 50s.xml">
-      <configuration name="palindromes()" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
     <history-entry file="palindromes() - 2019.03.19 at 22h 04m 21s.xml">
       <configuration name="palindromes()" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
@@ -243,23 +265,44 @@
     <history-entry file="JSX - 2019.03.19 at 23h 08m 08s.xml">
       <configuration name="JSX" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
+    <history-entry file="JSX - 2019.03.19 at 23h 21m 55s.xml">
+      <configuration name="JSX" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="JSX - 2019.03.19 at 23h 22m 41s.xml">
+      <configuration name="JSX" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="JSX - 2019.03.19 at 23h 24m 38s.xml">
+      <configuration name="JSX" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="JSX - 2019.03.19 at 23h 25m 26s.xml">
+      <configuration name="JSX" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="JSX - 2019.03.19 at 23h 25m 40s.xml">
+      <configuration name="JSX" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="palindromes() - 2019.03.19 at 23h 28m 32s.xml">
+      <configuration name="palindromes()" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="JSX - 2019.03.19 at 23h 28m 45s.xml">
+      <configuration name="JSX" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2383000" />
+    <option name="totallyTimeSpent" value="3339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="3008" height="1692" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2515172" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2515172" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329581" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329581" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39962476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -282,28 +325,26 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ch3-test-driven-carousel/test/hello.test.js</url>
+          <line>4</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ch2-palindromes/test/.eslintrc.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch2-palindromes/test/palindromes.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch2-palindromes/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="10" column="17" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch2-palindromes/.eslintrc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -323,22 +364,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch3-test-driven-carousel/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="680">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch3-test-driven-carousel/test/hello.test.js">
+    <entry file="file://$PROJECT_DIR$/ch2-palindromes/.eslintrc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="360">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch3-test-driven-carousel/.eslintrc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch3-test-driven-carousel/test/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2-palindromes/test/palindromes.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch3-test-driven-carousel/test/hello.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
