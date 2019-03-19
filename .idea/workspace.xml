@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b09c301-0ccd-42c0-8f67-ae673a397677" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ch2-palindromes/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/ch2-palindromes/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2-palindromes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ch2-palindromes/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2-palindromes/test/palindromes.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/ch2-palindromes/test/palindromes.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +12,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch2-palindromes/test/palindromes.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="160">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch3-test-driven-carousel/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -35,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch2-palindromes/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="400">
+              <caret line="10" column="17" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -57,6 +60,7 @@
         <option value="$PROJECT_DIR$/ch2-palindromes/package.json" />
         <option value="$PROJECT_DIR$/ch2-palindromes/.eslintrc.js" />
         <option value="$PROJECT_DIR$/ch2-palindromes/test/palindromes.test.js" />
+        <option value="$PROJECT_DIR$/ch3-test-driven-carousel/package.json" />
       </list>
     </option>
   </component>
@@ -88,6 +92,11 @@
               <item name="test-driven-react" type="462c0819:PsiDirectoryNode" />
               <item name="ch2-palindromes" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-driven-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-driven-react" type="462c0819:PsiDirectoryNode" />
+              <item name="ch3-test-driven-carousel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553033013672</updated>
       <workItem from="1553033014870" duration="124000" />
-      <workItem from="1553033156927" duration="915000" />
+      <workItem from="1553033156927" duration="1253000" />
     </task>
     <servers />
   </component>
@@ -167,7 +176,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1039000" />
+    <option name="totallyTimeSpent" value="1377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="3008" height="1692" extended-state="0" />
@@ -215,19 +224,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch2-palindromes/package.json">
+    <entry file="file://$PROJECT_DIR$/ch2-palindromes/test/palindromes.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="160">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch2-palindromes/test/palindromes.test.js">
+    <entry file="file://$PROJECT_DIR$/ch2-palindromes/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="400">
+          <caret line="10" column="17" selection-end-line="20" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch3-test-driven-carousel/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

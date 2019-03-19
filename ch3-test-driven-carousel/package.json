@@ -1,0 +1,21 @@
+{
+  "name": "ch3-test-driven-carousel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint",
+    "test": "jest",
+    "format": "prettier-eslint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "eslint": "^5.10.0",
+    "eslint-plugin-jest": "22.1.2",
+    "jest": "^23.6.0",
+    "prettier-eslint-cli": "4.7.1"
+  }
+}
