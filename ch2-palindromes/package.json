@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint",
-    "test": "jest"
+    "test": "jest",
+    "format": "prettier-eslint"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +14,7 @@
   "devDependencies": {
     "eslint": "^5.10.0",
     "eslint-plugin-jest": "22.1.2",
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "prettier-eslint-cli": "4.7.1"
   }
 }
