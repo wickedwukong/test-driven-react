@@ -39,7 +39,7 @@ describe('CarouselSlide', () => {
     it('passes other props through to the <figcaption>', () => {
        const style = {};
        const onClick = () => {};
-       const className = "a class name";
+       const className = 'a class name';
 
        wrapper.setProps({style, onClick, className});
 
