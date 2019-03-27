@@ -7,7 +7,8 @@
     "lint": "eslint",
     "test": "jest",
     "format": "prettier-eslint",
-    "build": "webpack"
+    "build": "webpack",
+    "start": "webpack-dev-server --open"
   },
   "keywords": [],
   "author": "",
@@ -31,7 +32,8 @@
     "prettier-eslint-cli": "^4.7.1",
     "react-dom": "^16.4.2",
     "webpack": "^4.26.1",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
   },
   "dependencies": {
     "@babel/cli": "^7.2.0",
